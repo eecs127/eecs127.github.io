@@ -51,15 +51,15 @@ schedule:
   - name: Thursday
   - name: Friday
     events:
-      - name: Lecture
+      - name: Placeholder
         start: 9:30 AM
         end: 10:30 AM
         location: 150 Wheeler
-      - name: Section
+      - name: Placeholder
         start: 11:30 AM
         end: 12:30 PM
         location: 310 Soda
-      - name: Office Hours
+      - name: Placeholder Hours
         start: 12:30 PM
         end: 2:00 PM
         location: 271 Soda

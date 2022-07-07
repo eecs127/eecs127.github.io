@@ -93,15 +93,19 @@
     }
 
     &.lecture {
-      background-color: $grey-dk-000;
+      background-color: $red-000;
     }
 
     &.section {
-      background-color: $purple-000;
+      background-color: $green-000;
     }
 
     &.office-hours {
-      background-color: $blue-000;
+      background-color: $yellow-200;
+    }
+
+    &.placeholder-hours {
+      background-color: $yellow-200;
     }
   }
 }
